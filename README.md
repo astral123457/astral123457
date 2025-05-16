@@ -6,6 +6,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- Hello! I'm Amauri, a passionate Minecraft plugin developer and technology enthusiast. I love creating innovative solutions that enhance gameplay, bringing unique features and smooth integrations to Minecraft servers.
+
+What I Do
+- Developing plugins that integrate blockchain technology, like Solana.
+- Optimizing server economy systems for better user experience.
+- Constantly learning and improving my coding skills to bring new ideas to life.
+
+Interests & Goals
+I'm always exploring new technologies, **building creative projects**, and sharing my knowledge with the community. Whether it's programming, game development, or experimenting with new innovations, I'm excited to push boundaries and create something meaningful.
+
+Feel free to reach out—let’s build something amazing together!
+
 - Donation Link:
 https://www.paypal.com/donate/?hosted_button_id=R4D3GTFBFPSXC
 
